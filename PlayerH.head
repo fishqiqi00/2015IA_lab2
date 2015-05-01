@@ -1,7 +1,7 @@
 #ifndef H_PLAYER
 #define H_PLAYER
 #include <iostream>
-
+//to include the c++ function first 
 enum PlayerState { ALIVE, DEAD};
 
 #include "BoardObjectH.h"
